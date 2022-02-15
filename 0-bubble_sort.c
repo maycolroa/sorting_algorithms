@@ -3,7 +3,7 @@
  *bubble_sort - Array of integers in ascending order
  *@array: Pointer
  *@size: array
- *Return:
+ *Return: array
  */
 
 void bubble_sort(int *array, size_t size)
