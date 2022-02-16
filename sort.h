@@ -25,5 +25,4 @@ void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 void lomuto_alg(int *point_array, int launch, int close, size_t size);
 int partition(int *point_array, size_t launch, size_t close, size_t size);
-
 #endif

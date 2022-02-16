@@ -39,7 +39,7 @@ void lomuto_alg(int *point_array, int launch, int close, size_t size)
  * @launch: starting
  * @close: ending
  * @size: array
- * Return:
+ * Return: aux
  */
 int partition(int *point_array, size_t launch, size_t close, size_t size)
 {
