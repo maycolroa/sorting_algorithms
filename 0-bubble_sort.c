@@ -5,7 +5,6 @@
  *@size: array
  *Return: array
  */
-
 void bubble_sort(int *array, size_t size)
 {
 	size_t j, k;
@@ -15,7 +14,6 @@ if  (size < 2)
 return;
 if  (array == NULL)
 return;
-
 	for (j = 0; j < size; j++)
 	{
 		for (k = 0; k < size - 1; k++)
